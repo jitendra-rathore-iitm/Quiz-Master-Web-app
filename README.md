@@ -12,5 +12,5 @@
 
 <h4>Steps To Install this web app in your Local System</h4><br/>
 <h5>Create Virtual environment<h5/><br/>
-<pre>```python -m venv venv``` </pre><br/>
+<pre>python -m venv venv </pre><br/>
 
