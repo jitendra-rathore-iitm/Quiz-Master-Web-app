@@ -19,7 +19,7 @@
 <p>For Windows</p>
 <pre>venv/Scripts/activate</pre>
 <p>For Linux & Mac </p>
-<pre>Source venv/Scripts/activate</pre>
+<pre>source venv/Scripts/activate</pre>
 
 <b>To install all required packages</b>
 <pre>pip install -r requirements.txt</pre>
