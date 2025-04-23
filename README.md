@@ -11,6 +11,28 @@
 
 
 <h4>Steps To Install this web app in your Local System</h4><br/>
-<h5>Create Virtual environment<h5/><br/>
+
+<h5>Create Virtual environment</h5><br/>
 <pre>python -m venv venv </pre><br/>
+
+<b>Activate Vitual Environment </b>
+<p>For Windows</p>
+<pre>venv/Scripts/activate</pre>
+<p>For Linux & Mac </p>
+<pre>Source venv/Scripts/activate</pre>
+
+<b>To install all required packages</b>
+<pre>pip install -r requirements.txt</pre>
+
+<b>To see which packages installed</b>
+<pre>pip freeze</pre>
+
+<b>To run our application</b>
+<pre>python run.py</pre>
+
+<img src = "./Photos/Main page.png" alt = "main page"/><br/>
+<img src = "./Photos/Login page.png" alt = "Login page"/><br/>
+<img src = "./Photos/Subjects page.png" alt = "Subjects"/><br/>
+<img src = ".Photos/charts.png" alt = "Charts"/><br/>
+<img src = "./Photos/quiz page.png" alt = "Quiz"/><br/>
 
