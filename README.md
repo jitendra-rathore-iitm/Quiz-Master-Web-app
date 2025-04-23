@@ -33,6 +33,6 @@
 <img src = "./Photos/Main page.png" alt = "main page"/><br/>
 <img src = "./Photos/Login page.png" alt = "Login page"/><br/>
 <img src = "./Photos/Subjects page.png" alt = "Subjects"/><br/>
-<img src = ".Photos/charts.png" alt = "Charts"/><br/>
+<img src = "./Photos/charts.png" alt = "Charts"/><br/>
 <img src = "./Photos/quiz page.png" alt = "Quiz"/><br/>
 
